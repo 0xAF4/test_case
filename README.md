@@ -46,7 +46,9 @@ python script.py
 
 ## API Endpoints
 После того как мы запустим скрипт командой:
+```
 python manage.py runserver
+```
 нам будут доступны следующие эндпоинты
 
 ```JSON
